@@ -30,7 +30,7 @@ This tutorial have one Class name as iOSDevCenters+GIF.swift downlaod this file 
 
 #OutPut 
 
-![Swift GIF Image](http://i.stack.imgur.com/5S6VQ.gif)
+![Swift GIF Image](http://i.imgur.com/y6jHCsX.gif)
 
 for more referance tutorial of Swift : https://iosdevcenters.blogspot.com/
 
