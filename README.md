@@ -2,7 +2,7 @@
 
 This tutorial have one Class name as iOSDevCenters+GIF.swift downlaod this file and adding the file in your project. after you can use as below code.
 
-#/************************ Load GIF image Using Name ********************/
+#Load GIF image Using Name
 
         let jeremyGif = UIImage.gifImageWithName("funny")
         let imageView = UIImageView(image: jeremyGif)
