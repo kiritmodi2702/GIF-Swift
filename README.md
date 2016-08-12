@@ -25,6 +25,7 @@ This tutorial have one Class name as iOSDevCenters+GIF.swift downlaod this file 
         imageView3.frame = CGRect(x: 20.0, y: 390.0, width: self.view.frame.size.width - 40, height: 150.0)
         view.addSubview(imageView3)
 
+#OutPut 
 
 ![Swift GIF Image](http://i.stack.imgur.com/5S6VQ.gif)
 
