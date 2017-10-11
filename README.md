@@ -14,7 +14,7 @@ This tutorial have one Class name as iOSDevCenters+GIF.swift downlaod this file 
 
 #Load GIF image Using Data
 
-        let imageData = NSData(contentsOfURL: NSBundle.mainBundle().URLForResource("play", withExtension: "gif")!)
+        let imageData = try? Data(contentsOf: Bundle.main.url(forResource: "play", withExtension: "gif")!)
         let advTimeGif = UIImage.gifImageWithData(imageData!)
         let imageView2 = UIImageView(image: advTimeGif)
         imageView2.frame = CGRect(x: 20.0, y: 220.0, width: self.view.frame.size.width - 40, height: 150.0)
